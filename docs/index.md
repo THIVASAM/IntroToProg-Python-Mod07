@@ -29,6 +29,8 @@ list_of_dic = pickle.load(pickle_in) # unpickling data from binary file
 print(example_data) # printing pickled data
 print(example_data["Key"]+","+example_data["Name"]) # Still acting like a dictionary
 ```
+![Figure01--Pickling Data](https://github.com/THIVASAM/IntroToProg-Python-Mod07/blob/master/docs/Figure1.png "Figure01--Pickling Data")
+### Figure01--Pickling Data
 
 ## Exception Class
 Exception class is a built in class within Python that can be programmed to handle errors. Python automatically creates an Exception object when an error occurs with information about the error. This information can be captured and stored in a try-except block to read out the error message. Custom exception classes can be created in Python as well. The Exception class is a base class that can be used to create a derived class where the inherit data in the function can be replaced with a customized message. You derive a new class from the Exception class by replacing the def__str__(self) with a custom message. These types of custom classes are created when there is a specific error in the program that you want to capture that is not built into Python.
