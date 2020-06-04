@@ -42,5 +42,11 @@ https://help.github.com/en/github/writing-on-github/about-writing-and-formatting
 ## Assignment07
 The code shown in the following figures demonstrates pickling data and error handling.
 
+![Figure02--Pickling and Un-Pickling Data in a Dictionary](https://github.com/THIVASAM/IntroToProg-Python-Mod07/blob/master/docs/Figure2.png "Figure02--Pickling and Un-Pickling Data in a Dictionary")
+### Figure02--Pickling and Un-Pickling Data in a Dictionary
+
+![Figure03--Example of Custom Error With Capitalization of Document Name](https://github.com/THIVASAM/IntroToProg-Python-Mod07/blob/master/docs/Figure3.png "Example of Custom Error With Capitalization of Document Name")
+### Figure03--Example of Custom Error With Capitalization of Document Name
+
 ## Conclusion
 This module was learning about pickling and error handling. I learned about the difference between a text file and a binary file and how pickling helps “flatten” out a file to conserve space. I also learned about the benefits of putting built in Python commands into function and the benefits of structured error handling. Finally, this module also focused on building a more complex GitHub webpage for presentation purposes.
