@@ -1,7 +1,7 @@
 # Using Python’s Exception Handling and Picking Capabilities
 
 **Developer: Thivanka Samaranayake**    
-**Date:June02 2020**  
+**Date: June02 2020**  
 
 ## Introduction
 This assignment delves into error handling and pickling of data. Error handling involves the use of try-exception blocks to catch errors that the user might run into as they proceed through the program. Data pickling involves the creation of a binary file to add and read data from it. These two concepts were tested using simple programs in this module. 
@@ -51,3 +51,5 @@ The code shown in the following figures demonstrates pickling data and error han
 
 ## Conclusion
 This module was learning about pickling and error handling. I learned about the difference between a text file and a binary file and how pickling helps “flatten” out a file to conserve space. I also learned about the benefits of putting built in Python commands into function and the benefits of structured error handling. Finally, this module also focused on building a more complex GitHub webpage for presentation purposes.
+
+https://thivasam.github.io/IntroToProg-Python-Mod07/
